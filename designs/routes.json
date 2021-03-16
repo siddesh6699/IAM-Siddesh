@@ -1,0 +1,31 @@
+{
+    "routes": [
+        {
+            "path": "incidentdetails",
+            "component": "incidentdetailsComponent",
+            "redirectTo": ""
+        },
+        {
+            "path": "addincident",
+            "component": "addincedentComponent"
+        },
+        {
+            "path": "incidentdata",
+            "component": "incidentdataComponent"
+        },
+        {
+            "path": "shoppingcart",
+            "component": "shoppingcartComponent"
+        },
+        {
+            "path": "''",
+            "redirectTo": "incidentdetails",
+            "pathMatch": "full",
+            "default": true
+        },
+        {
+            "path": "**",
+            "component": "PageNotFoundComponent"
+        }
+    ]
+}

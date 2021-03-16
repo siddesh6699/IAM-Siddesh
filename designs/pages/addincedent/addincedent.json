@@ -1,0 +1,14 @@
+{
+    "appPageId": "6c99abf3-1112-0b88-43de-37ec8a22f6b0",
+    "appPageName": "addincedent",
+    "componentName": "addincedentComponent",
+    "selectorName": "bh-addincedent",
+    "htmlFileName": "addincedent.template.html",
+    "tsFileName": "addincedent.component.ts",
+    "createDate": "2021-03-09T10:37:24.628Z",
+    "bkd": {
+        "designerHtml": "",
+        "designerReference": {},
+        "ts": ""
+    }
+}

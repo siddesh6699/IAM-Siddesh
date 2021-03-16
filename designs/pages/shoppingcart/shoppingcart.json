@@ -1,0 +1,14 @@
+{
+    "appPageId": "f135820d-835c-db7c-76dd-c38a8feb367e",
+    "appPageName": "shoppingcart",
+    "componentName": "shoppingcartComponent",
+    "selectorName": "bh-shoppingcart",
+    "htmlFileName": "shoppingcart.template.html",
+    "tsFileName": "shoppingcart.component.ts",
+    "createDate": "2021-03-16T10:47:31.783Z",
+    "bkd": {
+        "designerHtml": "",
+        "designerReference": {},
+        "ts": ""
+    }
+}

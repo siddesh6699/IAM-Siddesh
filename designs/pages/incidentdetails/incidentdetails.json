@@ -1,0 +1,14 @@
+{
+    "appPageId": "0f44dc0e-101b-e38b-445d-cf4038f147cb",
+    "appPageName": "incidentdetails",
+    "componentName": "incidentdetailsComponent",
+    "selectorName": "bh-incidentdetails",
+    "htmlFileName": "incidentdetails.template.html",
+    "tsFileName": "incidentdetails.component.ts",
+    "createDate": "2021-03-09T10:36:58.804Z",
+    "bkd": {
+        "designerHtml": "",
+        "designerReference": {},
+        "ts": ""
+    }
+}
