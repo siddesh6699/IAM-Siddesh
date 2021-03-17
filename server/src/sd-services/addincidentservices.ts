@@ -301,7 +301,7 @@ VALUES('${bh.input.body.subject}','${bh.input.body.description}','${bh.input.bod
       } else {
         throw new Error('Cannot find the selected config name');
       }
-      let params = [];
+      let params = undefined;
       params = params ? params : [];
       bh.local.result = await new GenericRDBMSOperations().executeSQL(
         connectionName,

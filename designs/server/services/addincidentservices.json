@@ -169,6 +169,7 @@
             "obj": "bh.local.result",
             "send": "bh.local.result"
         },
+        "cookies": [],
         "inputs": 1,
         "outputs": 0,
         "editableListData": {
@@ -217,6 +218,7 @@
                 }
             }
         },
+        "uploadFileOptions": {},
         "editableListData": {
             "responses": [],
             "params": [],
@@ -255,6 +257,7 @@
         "nodeType": "flow",
         "name": "",
         "databaseConfig": "sd_iGEBHwOrsUYhpghG",
+        "queryType": "",
         "resultMap": {
             "type": "bh.local",
             "value": "result"
@@ -267,6 +270,7 @@
         "inputs": 1,
         "outputs": 1,
         "params": [],
+        "paramMappingObj": {},
         "dbType": "postgres",
         "functionName": "sd_DWuIvyHs6RdrdGjj",
         "category": "Storage",
@@ -347,6 +351,7 @@
             "obj": "bh.local.result",
             "send": "bh.local.result"
         },
+        "cookies": [],
         "inputs": 1,
         "outputs": 0,
         "editableListData": {
